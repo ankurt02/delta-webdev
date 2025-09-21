@@ -1,0 +1,43 @@
+body {
+  background-color: white;
+}
+
+.one {
+    color: teal;
+}
+
+.two {
+    color: blueviolet;
+}
+
+.span-two-p {
+    color: blue;
+}
+
+#id_1 {
+    color: chocolate;
+}
+
+#table_1 {
+    text-align: center;
+}
+
+#username {
+    padding: 6pt;
+    margin: 0.2rem;
+    border-color: grey;
+    border-radius: 4em;
+}
+
+#password {
+    padding: 6pt;
+    margin: 0.2rem;
+    border-color: grey;
+    border-radius: 4em;
+}
+
+/* #username_Div {
+    border: 0.1em;
+    border-style: solid;
+    border-color: red;
+} */
